@@ -56,8 +56,12 @@ sudo rsync -av /home/recovery/logs/. /var/log
 sudo blkid
 ![image](https://user-images.githubusercontent.com/113097621/213346365-5ad1891c-6547-4ca1-a4da-2a9964dd0181.png)
 
+**Update /etc/fstab in this format using your own UUID and rememeber to remove the leading and ending quotes.**
 
+![image](https://user-images.githubusercontent.com/113097621/213347212-33ee6df3-36bb-4caf-89a9-dc1db9a43a76.png)
 
+**Step 2 — Prepare the Database Server**
+  
 
 
 
