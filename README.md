@@ -34,6 +34,7 @@ sudo gdisk /dev/xvdf
 
 ![image](https://user-images.githubusercontent.com/113097621/213340698-95dcf603-5c66-44e1-b016-1a9160ae1847.png)
 
+
 **Verify that your Logical Volume has been created successfully by running sudo lvs**
 
 ![image](https://user-images.githubusercontent.com/113097621/213340905-e7eef604-dec1-4c51-abe2-7856513ee919.png)
@@ -77,6 +78,12 @@ sudo blkid
 ![image](https://user-images.githubusercontent.com/113097621/213347212-33ee6df3-36bb-4caf-89a9-dc1db9a43a76.png)
 
 **Step 2 — Prepare the Database Server**
+
+WORDPRESS HOME PAGE
+![image](https://user-images.githubusercontent.com/113097621/216770536-239e1307-c1ce-4a64-85cb-7f40d57529c8.png)
+![image](https://user-images.githubusercontent.com/113097621/216770607-4a2c45aa-81d2-4b79-9c87-032e8c38f3a7.png)
+![image](https://user-images.githubusercontent.com/113097621/216770637-c74f426d-72d6-4ece-97f0-552a4eb64261.png)
+![image](https://user-images.githubusercontent.com/113097621/216770848-83fcd340-57e9-4f54-9d71-34a709bb7d7d.png)
   
 
 
